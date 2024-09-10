@@ -1,7 +1,8 @@
 # Sea-Recreation-and-Fishing-Rhyme-2023
 
-2023-07在宁波象山拍摄的微电影
-2023-07 Micro film shot in Xiangshan, Ningbo
+2023-07在宁波象山拍摄的微电影，此项目依赖于对宁波象山石浦沙塘湾村的乡村振兴社会实践调研而拍摄。
+<br/>
+2023-07 Micro film shot in Xiangshan, Ningbo. This project relies on the research of the social practice of rural revitalization in Shatangwan Village, Shipu, Xiangshan, Ningbo.
 
 <img src="https://github.com/user-attachments/assets/87863fed-deb1-41bb-8e99-f5a688c2d976" alt="作品预览图1" width="300"/>
 
